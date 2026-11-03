@@ -1,214 +1,243 @@
-# Priyanshu Kumar Verma
+<div align="center">
 
-### AI/ML Researcher | Computer Vision | Deep Learning | Generative AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0F172A,100:1D4ED8&text=PRIYANSHU%20KUMAR%20VERMA&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=AI%2FML%20RESEARCHER%20%7C%20INTELLIGENT%20SYSTEMS&descSize=15&descAlignY=65&stroke=3B82F6" />
 
-I am a Computer Science undergraduate and AI/ML researcher focused on building and experimenting with intelligent systems across **Computer Vision, Deep Learning, NLP, Generative AI, and Multi-Agent Systems**.
+<br>
 
-I enjoy taking problems from an initial research idea to a working implementation through experimentation, model development, evaluation, and deployment.
+### Exploring Intelligence Beyond Prediction.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Researching+Artificial+Intelligence;Building+Neural+Networks;Exploring+Computer+Vision;Experimenting+with+LLMs;Developing+Multi-Agent+Systems" />
 
-## Research Interests
+<br>
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Large Language Models
-* Generative AI
-* Multi-Agent Systems
-* Unsupervised Learning
-* Anomaly Detection
-* AI for Scientific Applications
+[LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-verma-87501a3b5/)   |   [GitHub](https://github.com/priyanshukumarverma091-hub)
+
+</div>
 
 ---
 
-## Selected Projects
+## 01 / The Researcher
 
-### Mars HiRISE Anomaly Detection
+I am a Computer Science undergraduate exploring the science and engineering behind intelligent systems.
 
-Unsupervised anomaly detection research on **Mars HiRISE imagery**.
+My interests lie in understanding how machines perceive information, learn representations, reason through complex problems, and make decisions.
 
-The system explores representation and reconstruction-based methods for identifying visually unusual observations without requiring predefined anomaly labels.
+I work across Deep Learning, Computer Vision, Natural Language Processing, Generative AI, and Multi-Agent Systems.
 
-**Focus:** Computer Vision · Deep Learning · Unsupervised Learning · Anomaly Detection · Planetary Imagery
+Rather than treating AI as a collection of ready-made tools, I enjoy understanding the architectures, mathematics, training dynamics, and limitations behind the systems I build.
 
----
-
-### RETRO-AI
-
-A multi-agent AI system designed around intelligent task decomposition and specialized agent collaboration.
-
-The architecture includes planning, research, coding, testing, debugging, criticism, and review components coordinated through an intelligence layer.
-
-**Focus:** Multi-Agent AI · LLM Reasoning · Agent Orchestration · AI Systems
+**My central question: How do we build AI systems that don't just produce answers, but understand, adapt, and reason?**
 
 ---
 
-### College AI Helpdesk
+## 02 / Research Domains
 
-An AI-powered college information assistant combining **NLP, LLMs, and Retrieval-Augmented Generation (RAG)**.
+<div align="center">
 
-The system uses a college-specific knowledge base to retrieve relevant institutional information and generate context-aware responses.
+|          DOMAIN         | RESEARCH DIRECTION                               |
+| :---------------------: | :----------------------------------------------- |
+| ARTIFICIAL INTELLIGENCE | Intelligent and Autonomous Systems               |
+|      DEEP LEARNING      | Neural Architectures and Representation Learning |
+|     COMPUTER VISION     | Visual Understanding and Perception              |
+|    ANOMALY DETECTION    | Unsupervised and Reconstruction-Based Learning   |
+|      GENERATIVE AI      | Transformers and Language Models                 |
+|      MULTI-AGENT AI     | Planning, Coordination and Reasoning             |
+|        AI SAFETY        | Alignment, Interpretability and Reliability      |
+|      SCIENTIFIC AI      | Weather Modeling and Scientific Applications     |
 
-**Focus:** NLP · LLM · RAG · Information Retrieval · Educational AI
-
----
-
-### AI Athlete Injury Risk Analysis
-
-A machine-learning based system for analyzing athlete-related data and estimating injury-risk categories.
-
-The project explores how historical athlete and training-related features can be used for data-driven risk analysis.
-
-**Focus:** Machine Learning · Predictive Modeling · Sports Analytics
-
----
-
-### AI Helmet Detection
-
-A computer-vision system for detecting safety helmets using deep-learning based object detection.
-
-The project explores automated PPE monitoring for construction and industrial environments.
-
-**Focus:** YOLO · Object Detection · Computer Vision · Real-Time AI
+</div>
 
 ---
 
-### Human Detection
+## 03 / Research & Engineering Lab
 
-A real-time computer-vision project for detecting and localizing people in images and video streams.
+A selection of problems I have explored through experimentation and implementation.
 
-**Focus:** YOLO · Object Detection · OpenCV · Real-Time Computer Vision
+### 01. MARS HiRISE — Anomaly Detection
+
+`COMPUTER VISION` `UNSUPERVISED LEARNING`
+
+Exploring how machine learning can identify unusual visual patterns in Mars satellite imagery without predefined anomaly labels.
+
+The project investigates representation learning and reconstruction-based anomaly detection.
+
+### 02. EXTREME WEATHER AI
+
+`GRAPH NEURAL NETWORKS` `SCIENTIFIC AI`
+
+Investigating AI-based identification and tracking of extreme weather events, alongside spatial downscaling of numerical weather prediction data.
+
+Explores graph-based learning, physics-informed objectives, and generative modeling.
+
+### 03. RETRO-AI
+
+`MULTI-AGENT SYSTEMS` `LLM REASONING`
+
+Exploring a collaborative AI architecture where specialized agents handle planning, research, coding, testing, debugging, criticism, and review.
+
+The objective is to investigate how coordinated agents can approach complex software engineering tasks.
+
+### 04. MINIGPT
+
+`TRANSFORMERS` `LANGUAGE MODELING`
+
+An experimental language-model project focused on understanding the complete development pipeline, from tokenization and vocabulary construction to transformer training and text generation.
+
+### 05. COLLEGE AI HELPDESK
+
+`NLP` `RETRIEVAL-AUGMENTED GENERATION`
+
+An institutional information assistant combining LLMs and RAG to retrieve relevant college information and generate context-aware responses.
+
+### 06. AI HELMET DETECTION
+
+`YOLO` `OBJECT DETECTION`
+
+A computer vision application exploring automated safety helmet detection for industrial and construction environments.
+
+### 07. HUMAN DETECTION
+
+`REAL-TIME COMPUTER VISION` `YOLO`
+
+A real-time detection implementation for identifying and localizing people in images and video streams.
+
+### 08. AI ATHLETE INJURY RISK ANALYSIS
+
+`MACHINE LEARNING` `PREDICTIVE MODELING`
+
+Exploring athlete-related data and predictive approaches for estimating injury-risk categories.
 
 ---
 
-## Technical Skills
+## 04 / Technology Stack
 
-### Programming
+<div align="center">
 
-`Python` · `C` · `Java` · `JavaScript` · `HTML` · `CSS`
+**PROGRAMMING**
 
-### Machine Learning
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark" />
 
-`scikit-learn` · `Pandas` · `NumPy`
+<br><br>
 
-### Deep Learning
+**AI / MACHINE LEARNING**
 
-`PyTorch` · `TensorFlow` · `Keras`
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 
-### Computer Vision
+<br><br>
 
-`OpenCV` · `YOLO` · `Roboflow`
+**DEVELOPMENT ENVIRONMENT**
 
-### AI / NLP
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
 
-`NLP` · `LLMs` · `RAG` · `Generative AI` · `Multi-Agent Systems`
+<br><br>
 
-### Data & Tools
+`NumPy`   `Pandas`   `Keras`   `YOLO`   `Roboflow`   `SQL`   `RAG`   `LLMs`
 
-`SQL` · `MySQL` · `Power BI` · `Git` · `GitHub` · `Google Colab` · `VS Code`
+</div>
 
 ---
 
-## Research & Development Approach
+## 05 / Experimental Philosophy
 
-I follow an experimental workflow:
+I believe meaningful AI development requires more than achieving a high accuracy score.
+
+Every experiment should answer important questions:
+
+* What problem are we actually solving?
+* Why does the architecture work?
+* Where does the model fail?
+* Are the evaluation metrics meaningful?
+* Can the results be reproduced?
+* What can be improved?
+
+My workflow:
 
 ```text
-Problem
-  ↓
-Research
-  ↓
-Data
-  ↓
-Model
-  ↓
-Experiment
-  ↓
-Evaluation
-  ↓
-Iteration
-  ↓
-Deployment / Documentation
-```
-
-My focus is not only on building models, but also on understanding **why a system works, where it fails, and how it can be improved**.
-
----
-
-## Current Focus
-
-Currently exploring:
-
-* Advanced Computer Vision
-* Anomaly Detection
-* LLM architectures
-* Retrieval-Augmented Generation
-* Multi-Agent AI
-* Generative AI
-* AI research workflows
-* Model evaluation and optimization
-
----
-
-## Learning Roadmap
-
-```text
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Computer Vision
-       ↓
-NLP
-       ↓
-LLMs & Generative AI
-       ↓
-Multi-Agent Systems
-       ↓
-AI Research
+        RESEARCH QUESTION
+                |
+                v
+         DATA & ANALYSIS
+                |
+                v
+       ARCHITECTURE DESIGN
+                |
+                v
+          EXPERIMENTS
+                |
+                v
+       EVALUATION & TESTING
+                |
+                v
+          ERROR ANALYSIS
+                |
+                v
+        ITERATION & IMPROVEMENT
+                |
+                v
+          DOCUMENTATION
 ```
 
 ---
 
-## GitHub Goals
+## 06 / GitHub Activity
 
-This profile documents my progression through:
+<div align="center">
 
-* AI/ML experiments
-* Research prototypes
-* Deep-learning projects
-* Computer-vision systems
-* LLM applications
-* Multi-agent architectures
-* Technical experiments
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshukumarverma091-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-I aim to keep projects **reproducible, documented, and technically transparent**.
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumarverma091-hub&theme=tokyonight&hide_border=true" />
 
----
+<br><br>
 
-## Connect
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukumarverma091-hub&theme=tokyo-night&hide_border=true" />
 
-### LinkedIn
-
-[**Priyanshu Kumar Verma**](https://www.linkedin.com/in/priyanshu-kumar-verma-87501a3b5/)
-
-### GitHub
-
-[**priyanshukumarverma091-hub**](https://github.com/priyanshukumarverma091-hub)
+</div>
 
 ---
 
-## About Me
+## 07 / Beyond Current Research
 
-I am interested in the intersection of **AI research and real-world systems**.
+### KALA AI
 
-My long-term goal is to contribute to research and engineering work that pushes intelligent systems beyond simple prediction toward **reasoning, perception, learning, and autonomous decision-making**.
+**Building AI that understands the developer, not just the code.**
+
+Kala AI is a long-term vision focused on developing intelligent, developer-oriented AI systems.
+
+The central philosophy is simple:
+
+* Understand the existing codebase before making changes.
+* Preserve working logic and architecture.
+* Prefer precise improvements over unnecessary rewrites.
+* Make AI decisions transparent and understandable.
+* Keep developers in control.
+
+The goal is to build AI that acts as a trustworthy engineering collaborator rather than just another code-generation tool.
 
 ---
 
-### Building. Experimenting. Researching.
+## 08 / Current Exploration
 
-**Priyanshu Kumar Verma**
+My current research direction includes:
+
+|    STATUS   | AREA                           |
+| :---------: | :----------------------------- |
+|  EXPLORING  | Advanced Computer Vision       |
+|  EXPLORING  | Unsupervised Anomaly Detection |
+|  DEVELOPING | LLM Architectures              |
+|  EXPLORING  | Multi-Agent Intelligence       |
+| RESEARCHING | AI Safety and Interpretability |
+|   BUILDING  | Kala AI                        |
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:020617&height=120&section=footer" />
+
+### BUILDING BEYOND THE OBVIOUS.
+
+**PRIYANSHU KUMAR VERMA**
+
+*Research. Experimentation. Intelligence.*
+
+</div>
